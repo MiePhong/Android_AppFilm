@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ui.SignupActivity">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:gravity="center"
+        android:orientation="vertical">
+
+        <ImageView
+            android:layout_width="120dp"
+            android:layout_height="120dp"
+
+            android:layout_marginBottom="40dp"
+            android:src="@drawable/img_avatar" />
+
+
+
+        <EditText
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="10dp"
+            android:id="@+id/siginup_email"
+            android:ems="15"
+            android:padding="20px"
+            android:hint="Email"
+            android:textSize="20dp"
+            android:textColor="#000000"
+            android:background="@drawable/text"
+            />
+
+        <EditText
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="10dp"
+            android:ems="15"
+            android:hint="Password"
+            android:padding="20px"
+            android:textColor="#000000"
+
+            android:id="@+id/siginup_password1"
+            android:background="@drawable/text"
+            android:inputType="textPassword"
+            android:textSize="20dp" />
+
+        <EditText
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="10dp"
+            android:ems="15"
+            android:id="@+id/siginup_password2"
+            android:hint="Confim Password"
+            android:textSize="20dp"
+            android:padding="20px"
+            android:textColor="#000000"
+
+            android:inputType="textPassword"
+            android:background="@drawable/text"
+            />
+
+
+<!--        <TextView-->
+<!--            android:layout_width="wrap_content"-->
+<!--            android:layout_height="wrap_content"-->
+<!--            android:layout_gravity="right"-->
+<!--            android:layout_marginRight="20dp"-->
+<!--            android:layout_marginBottom="10dp"-->
+<!--            android:text="Login?"-->
+<!--            android:id="@+id/LoginText"-->
+<!--            android:textColor="#009ce0"-->
+<!--            android:textSize="15dp" />-->
+
+        <Button
+            android:id="@+id/signup_button"
+            android:layout_width="150dp"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="15dp"
+            android:background="@drawable/btn"
+            android:text="Đăng ký"
+            android:textColor="#FFFFFF" />
+    </LinearLayout>
+
+</RelativeLayout>

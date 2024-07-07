@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="cl_red">#820000</color>
+    <color name="colorAccent">#f1b814</color>
+    <color name="colorPrimary">#151c25</color>
+    <color name="colorPrimaryDark">#151c25</color>
+    <color name="darker_gray">#808080</color>
+    <color name="text_light_blue">#566f9a</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="white_pink">#CCCC99</color>
+    <color name="zz1">#DB1257</color>
+    <string name="app_name">Doancuoiki</string>
+    <string name="gcm_defaultSenderId" translatable="false">704037702027</string>
+    <string name="google_api_key" translatable="false">AIzaSyBlzYtx4jXdvDLp0kSm8LYPuNU3HKZk9og</string>
+    <string name="google_app_id" translatable="false">1:704037702027:android:ec690c2e3f481eb354478e</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBlzYtx4jXdvDLp0kSm8LYPuNU3HKZk9og</string>
+    <string name="google_storage_bucket" translatable="false">account-6ad53.appspot.com</string>
+    <string name="project_id" translatable="false">account-6ad53</string>
+    <string name="simple_text">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</string>
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+
+    </style>
+    <style name="Base.Theme.Doancuoiki" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style>
+    <style name="Theme.Doancuoiki" parent="Base.Theme.Doancuoiki">
+        <item name="android:activityOpenEnterAnimation">@anim/slide_in_right</item>
+        <item name="android:activityOpenExitAnimation">@anim/slide_out_left</item>
+
+
+
+    </style>
+    <style name="circular">
+        <item name="cornerSize">50%</item>
+    </style>
+    <style name="roungImageViewinComment" parent="">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSize">100dp</item>
+        <item name="color">@color/white</item>
+    </style>
+    <style name="roungImageViewinSearch" parent="">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSize">4dp</item>
+        <item name="color">@color/white</item>
+    </style>
+</resources>

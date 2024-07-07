@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+
+    </style>
+
+    <style name="roungImageViewinSearch" parent="">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSize">4dp</item>
+        <item name="color">@color/white</item>
+    </style>
+
+    <style name="roungImageViewinComment" parent="">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSize">100dp</item>
+        <item name="color">@color/white</item>
+    </style>
+
+
+
+<!--    <style name="roungImageViewinSearch" parent="">-->
+<!--        <item name="cornerSizeTopRight">4dp</item>-->
+<!--        <item name="cornerSizeBottomRight">4dp</item>-->
+<!--        <item name="cornerFamilyTopRight">rounded</item>-->
+<!--        <item name="cornerFamilyBottomRight">rounded</item>-->
+<!--    </style>-->
+
+</resources>

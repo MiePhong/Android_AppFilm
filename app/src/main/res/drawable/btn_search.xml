@@ -1,0 +1,12 @@
+<!--<?xml version="1.0" encoding="utf-8"?>-->
+<!--<shape xmlns:android="http://schemas.android.com/apk/res/android">-->
+<!--    <solid android:color="#cdcdcd" /> &lt;!&ndash; Màu nền của hình chữ nhật &ndash;&gt;-->
+<!--    <corners android:radius="8dp" /> &lt;!&ndash; Độ cong của các góc &ndash;&gt;-->
+<!--</shape>-->
+
+
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:state_pressed="true" android:drawable="@drawable/button_pressed" />
+    <item android:drawable="@drawable/button_background" />
+</selector>
+

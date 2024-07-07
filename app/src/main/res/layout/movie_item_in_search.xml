@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:paddingTop="10dp"
+    android:paddingBottom="10dp"
+    android:paddingRight="10dp"
+    android:paddingLeft="10dp"
+    android:layout_marginTop="10dp"
+    android:layout_marginBottom="5dp"
+    android:background="@drawable/background_item_seach">
+<!--    android:background="#4d4471"-->
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:clipChildren="true"
+        android:clipToPadding="true"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="3"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/tvNameinSearch"
+                android:textColor="@color/black"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textSize="18dp"
+                android:maxLines="1"
+                android:ellipsize="end"
+                android:text="Mission: Impossible - Dead Reckoning Part One" />
+
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal">
+
+                <TextView
+                    android:id="@+id/tvDateTimeinSearch"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:layout_weight="1"
+                    android:textColor="@color/black"
+                    android:text="2023-07-08" />
+
+                <ImageView
+                    android:id="@+id/imageView4"
+                    android:layout_width="1dp"
+                    android:layout_height="40dp"
+                    android:layout_weight="1"
+                    android:background="@drawable/star" />
+
+                <TextView
+                    android:id="@+id/tvVoteAverageinSearch"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:layout_weight="1"
+                    android:textColor="@color/black"
+                    android:text="7.595" />
+
+            </LinearLayout>
+
+            <TextView
+                android:id="@+id/tvDescriptioninSearch"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:ellipsize="end"
+                android:gravity="left"
+                android:paddingTop="18dp"
+                android:paddingRight="4dp"
+                android:lineHeight="18dp"
+                android:maxLines="4"
+                android:textColor="@color/black"
+                android:text="The Avengers gather to celebrate their latest victory, but their celebration is quickly interrupted by the mysterious disappearance of Black Widow's father, Red Guardian. As the Avengers investigate, they discover that Red Guardian isn't the only one missing when they meet a dangerous new foe quite unlike anything they've ever encountered before." />
+        </LinearLayout>
+
+<!--        <ImageView-->
+<!--        android:scaleType="centerCrop"-->
+<!--        android:id="@+id/imginSearch"-->
+<!--        android:layout_width="217px"-->
+<!--        android:layout_height="351px"-->
+<!--        app:layout_constraintEnd_toEndOf="parent"-->
+<!--        app:layout_constraintStart_toStartOf="parent"-->
+<!--        app:layout_constraintTop_toTopOf="parent"-->
+<!--        app:srcCompat="@drawable/ic_launcher_background"/>-->
+        
+        <com.google.android.material.imageview.ShapeableImageView
+                android:scaleType="centerCrop"
+                android:id="@+id/imginSearch"
+                android:layout_width="217px"
+                android:layout_height="351px"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent"
+                app:srcCompat="@drawable/ic_launcher_background"
+                app:shapeAppearanceOverlay="@style/roungImageViewinSearch"/>
+    </LinearLayout>
+</androidx.constraintlayout.widget.ConstraintLayout>

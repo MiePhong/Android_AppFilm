@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "704037702027",
+    "project_id": "account-6ad53",
+    "storage_bucket": "account-6ad53.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:704037702027:android:ec690c2e3f481eb354478e",
+        "android_client_info": {
+          "package_name": "doan.cuoiki"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlzYtx4jXdvDLp0kSm8LYPuNU3HKZk9og"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:704037702027:android:13116c0d1008fc5854478e",
+        "android_client_info": {
+          "package_name": "login.signup"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlzYtx4jXdvDLp0kSm8LYPuNU3HKZk9og"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

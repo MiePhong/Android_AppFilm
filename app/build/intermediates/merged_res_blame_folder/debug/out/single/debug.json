@@ -1,0 +1,370 @@
+[
+    {
+        "merged": "doan.cuoiki.app-merged_res-37:/drawable_star.png.flat",
+        "source": "doan.cuoiki.app-main-39:/drawable/star.png"
+    },
+    {
+        "merged": "doan.cuoiki.app-merged_res-37:/drawable_baseline_search_edit_24.xml.flat",
+        "source": "doan.cuoiki.app-main-39:/drawable/baseline_search_edit_24.xml"
+    },
+    {
+        "merged": "doan.cuoiki.app-merged_res-37:/anim_slide_out_left.xml.flat",
+        "source": "doan.cuoiki.app-main-39:/anim/slide_out_left.xml"
+    },
+    {
+        "merged": "doan.cuoiki.app-merged_res-37:/menu_bottom_menu.xml.flat",
+        "source": "doan.cuoiki.app-main-39:/menu/bottom_menu.xml"
+    },
+    {
+        "merged": "doan.cuoiki.app-merged_res-37:/drawable_moana.jpg.flat",
+        "source": "doan.cuoiki.app-main-39:/drawable/moana.jpg"
+    },
+    {
+        "merged": "doan.cuoiki.app-merged_res-37:/xml_data_extraction_rules.xml.flat",
+        "source": "doan.cuoiki.app-main-39:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "doan.cuoiki.app-merged_res-37:/drawable_ic_email.xml.flat",
+        "source": "doan.cuoiki.app-main-39:/drawable/ic_email.xml"
+    },
+    {
+        "merged": "doan.cuoiki.app-merged_res-37:/drawable_img_avatar.png.flat",
+        "source": "doan.cuoiki.app-main-39:/drawable/img_avatar.png"
+    },
+    {
+        "merged": "doan.cuoiki.app-merged_res-37:/drawable_ic_launcher_background.xml.flat",
+        "source": "doan.cuoiki.app-main-39:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "doan.cuoiki.app-merged_res-37:/drawable_slide1.jpg.flat",
+        "source": "doan.cuoiki.app-main-39:/drawable/slide1.jpg"
+    },
+    {
+        "merged": "doan.cuoiki.app-merged_res-37:/layout_activity_profile.xml.flat",
+        "source": "doan.cuoiki.app-main-39:/layout/activity_profile.xml"
+    },
+    {
+        "merged": "doan.cuoiki.app-merged_res-37:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "doan.cuoiki.app-main-39:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "doan.cuoiki.app-merged_res-37:/drawable_c4.png.flat",
+        "source": "doan.cuoiki.app-main-39:/drawable/c4.png"
+    },
+    {
+        "merged": "doan.cuoiki.app-merged_res-37:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "doan.cuoiki.app-main-39:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "doan.cuoiki.app-merged_res-37:/drawable_ic_gender.xml.flat",
+        "source": "doan.cuoiki.app-main-39:/drawable/ic_gender.xml"
+    },
+    {
+        "merged": "doan.cuoiki.app-merged_res-37:/drawable_non_pressed_btn_filter.xml.flat",
+        "source": "doan.cuoiki.app-main-39:/drawable/non_pressed_btn_filter.xml"
+    },
+    {
+        "merged": "doan.cuoiki.app-merged_res-37:/drawable_baseline_format_list_bulleted_24.xml.flat",
+        "source": "doan.cuoiki.app-main-39:/drawable/baseline_format_list_bulleted_24.xml"
+    },
+    {
+        "merged": "doan.cuoiki.app-merged_res-37:/drawable_ic_person_pin.xml.flat",
+        "source": "doan.cuoiki.app-main-39:/drawable/ic_person_pin.xml"
+    },
+    {
+        "merged": "doan.cuoiki.app-merged_res-37:/drawable_round_image_view.xml.flat",
+        "source": "doan.cuoiki.app-main-39:/drawable/round_image_view.xml"
+    },
+    {
+        "merged": "doan.cuoiki.app-merged_res-37:/drawable_default_indicator.xml.flat",
+        "source": "doan.cuoiki.app-main-39:/drawable/default_indicator.xml"
+    },
+    {
+        "merged": "doan.cuoiki.app-merged_res-37:/drawable_sad_24.xml.flat",
+        "source": "doan.cuoiki.app-main-39:/drawable/sad_24.xml"
+    },
+    {
+        "merged": "doan.cuoiki.app-merged_res-37:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "doan.cuoiki.app-main-39:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "doan.cuoiki.app-merged_res-37:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "doan.cuoiki.app-main-39:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "doan.cuoiki.app-merged_res-37:/drawable_text.xml.flat",
+        "source": "doan.cuoiki.app-main-39:/drawable/text.xml"
+    },
+    {
+        "merged": "doan.cuoiki.app-merged_res-37:/layout_activity_login.xml.flat",
+        "source": "doan.cuoiki.app-main-39:/layout/activity_login.xml"
+    },
+    {
+        "merged": "doan.cuoiki.app-merged_res-37:/layout_home.xml.flat",
+        "source": "doan.cuoiki.app-main-39:/layout/home.xml"
+    },
+    {
+        "merged": "doan.cuoiki.app-merged_res-37:/anim_slide_in_right.xml.flat",
+        "source": "doan.cuoiki.app-main-39:/anim/slide_in_right.xml"
+    },
+    {
+        "merged": "doan.cuoiki.app-merged_res-37:/drawable_baseline_close_24.xml.flat",
+        "source": "doan.cuoiki.app-main-39:/drawable/baseline_close_24.xml"
+    },
+    {
+        "merged": "doan.cuoiki.app-merged_res-37:/xml_backup_rules.xml.flat",
+        "source": "doan.cuoiki.app-main-39:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "doan.cuoiki.app-merged_res-37:/drawable_keyboard_backspace.xml.flat",
+        "source": "doan.cuoiki.app-main-39:/drawable/keyboard_backspace.xml"
+    },
+    {
+        "merged": "doan.cuoiki.app-merged_res-37:/drawable_baseline_home_24.xml.flat",
+        "source": "doan.cuoiki.app-main-39:/drawable/baseline_home_24.xml"
+    },
+    {
+        "merged": "doan.cuoiki.app-merged_res-37:/drawable_ic_birthday.xml.flat",
+        "source": "doan.cuoiki.app-main-39:/drawable/ic_birthday.xml"
+    },
+    {
+        "merged": "doan.cuoiki.app-merged_res-37:/drawable_button_pressed.xml.flat",
+        "source": "doan.cuoiki.app-main-39:/drawable/button_pressed.xml"
+    },
+    {
+        "merged": "doan.cuoiki.app-merged_res-37:/drawable_btn_search.xml.flat",
+        "source": "doan.cuoiki.app-main-39:/drawable/btn_search.xml"
+    },
+    {
+        "merged": "doan.cuoiki.app-merged_res-37:/drawable_img.png.flat",
+        "source": "doan.cuoiki.app-main-39:/drawable/img.png"
+    },
+    {
+        "merged": "doan.cuoiki.app-merged_res-37:/drawable_ic_e_password.xml.flat",
+        "source": "doan.cuoiki.app-main-39:/drawable/ic_e_password.xml"
+    },
+    {
+        "merged": "doan.cuoiki.app-merged_res-37:/drawable_sad_white.xml.flat",
+        "source": "doan.cuoiki.app-main-39:/drawable/sad_white.xml"
+    },
+    {
+        "merged": "doan.cuoiki.app-merged_res-37:/drawable_background_comment.xml.flat",
+        "source": "doan.cuoiki.app-main-39:/drawable/background_comment.xml"
+    },
+    {
+        "merged": "doan.cuoiki.app-merged_res-37:/layout_item_cast.xml.flat",
+        "source": "doan.cuoiki.app-main-39:/layout/item_cast.xml"
+    },
+    {
+        "merged": "doan.cuoiki.app-merged_res-37:/drawable_btn.xml.flat",
+        "source": "doan.cuoiki.app-main-39:/drawable/btn.xml"
+    },
+    {
+        "merged": "doan.cuoiki.app-merged_res-37:/drawable_wrapper_edt_search.xml.flat",
+        "source": "doan.cuoiki.app-main-39:/drawable/wrapper_edt_search.xml"
+    },
+    {
+        "merged": "doan.cuoiki.app-merged_res-37:/drawable_slide2.jpg.flat",
+        "source": "doan.cuoiki.app-main-39:/drawable/slide2.jpg"
+    },
+    {
+        "merged": "doan.cuoiki.app-merged_res-37:/layout_activity_detail.xml.flat",
+        "source": "doan.cuoiki.app-main-39:/layout/activity_detail.xml"
+    },
+    {
+        "merged": "doan.cuoiki.app-merged_res-37:/drawable_background_item_seach.xml.flat",
+        "source": "doan.cuoiki.app-main-39:/drawable/background_item_seach.xml"
+    },
+    {
+        "merged": "doan.cuoiki.app-merged_res-37:/drawable_c3.png.flat",
+        "source": "doan.cuoiki.app-main-39:/drawable/c3.png"
+    },
+    {
+        "merged": "doan.cuoiki.app-merged_res-37:/drawable_pressed_btn_filter.xml.flat",
+        "source": "doan.cuoiki.app-main-39:/drawable/pressed_btn_filter.xml"
+    },
+    {
+        "merged": "doan.cuoiki.app-merged_res-37:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "doan.cuoiki.app-main-39:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "doan.cuoiki.app-merged_res-37:/layout_review.xml.flat",
+        "source": "doan.cuoiki.app-main-39:/layout/review.xml"
+    },
+    {
+        "merged": "doan.cuoiki.app-merged_res-37:/drawable_button_background.xml.flat",
+        "source": "doan.cuoiki.app-main-39:/drawable/button_background.xml"
+    },
+    {
+        "merged": "doan.cuoiki.app-merged_res-37:/layout_dialog_forgot.xml.flat",
+        "source": "doan.cuoiki.app-main-39:/layout/dialog_forgot.xml"
+    },
+    {
+        "merged": "doan.cuoiki.app-merged_res-37:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "doan.cuoiki.app-main-39:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "doan.cuoiki.app-merged_res-37:/layout_activity_movie_player.xml.flat",
+        "source": "doan.cuoiki.app-main-39:/layout/activity_movie_player.xml"
+    },
+    {
+        "merged": "doan.cuoiki.app-merged_res-37:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "doan.cuoiki.app-main-39:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "doan.cuoiki.app-merged_res-37:/drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "doan.cuoiki.app-main-39:/drawable-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "doan.cuoiki.app-merged_res-37:/drawable_lock_reset.xml.flat",
+        "source": "doan.cuoiki.app-main-39:/drawable/lock_reset.xml"
+    },
+    {
+        "merged": "doan.cuoiki.app-merged_res-37:/drawable_c5.png.flat",
+        "source": "doan.cuoiki.app-main-39:/drawable/c5.png"
+    },
+    {
+        "merged": "doan.cuoiki.app-merged_res-37:/drawable_c6.jpg.flat",
+        "source": "doan.cuoiki.app-main-39:/drawable/c6.jpg"
+    },
+    {
+        "merged": "doan.cuoiki.app-merged_res-37:/layout_activity_comments.xml.flat",
+        "source": "doan.cuoiki.app-main-39:/layout/activity_comments.xml"
+    },
+    {
+        "merged": "doan.cuoiki.app-merged_res-37:/layout_activity_list_flim.xml.flat",
+        "source": "doan.cuoiki.app-main-39:/layout/activity_list_flim.xml"
+    },
+    {
+        "merged": "doan.cuoiki.app-merged_res-37:/drawable_themartian.jpg.flat",
+        "source": "doan.cuoiki.app-main-39:/drawable/themartian.jpg"
+    },
+    {
+        "merged": "doan.cuoiki.app-merged_res-37:/drawable_baseline_person_24.xml.flat",
+        "source": "doan.cuoiki.app-main-39:/drawable/baseline_person_24.xml"
+    },
+    {
+        "merged": "doan.cuoiki.app-merged_res-37:/drawable_c2.png.flat",
+        "source": "doan.cuoiki.app-main-39:/drawable/c2.png"
+    },
+    {
+        "merged": "doan.cuoiki.app-merged_res-37:/drawable_blackp.jpg.flat",
+        "source": "doan.cuoiki.app-main-39:/drawable/blackp.jpg"
+    },
+    {
+        "merged": "doan.cuoiki.app-merged_res-37:/drawable_ic_mobile.xml.flat",
+        "source": "doan.cuoiki.app-main-39:/drawable/ic_mobile.xml"
+    },
+    {
+        "merged": "doan.cuoiki.app-merged_res-37:/drawable_baseline_search_24.xml.flat",
+        "source": "doan.cuoiki.app-main-39:/drawable/baseline_search_24.xml"
+    },
+    {
+        "merged": "doan.cuoiki.app-merged_res-37:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "doan.cuoiki.app-main-39:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "doan.cuoiki.app-merged_res-37:/layout_activity_main.xml.flat",
+        "source": "doan.cuoiki.app-main-39:/layout/activity_main.xml"
+    },
+    {
+        "merged": "doan.cuoiki.app-merged_res-37:/drawable_baseline_play_arrow_24.xml.flat",
+        "source": "doan.cuoiki.app-main-39:/drawable/baseline_play_arrow_24.xml"
+    },
+    {
+        "merged": "doan.cuoiki.app-merged_res-37:/drawable_lock.xml.flat",
+        "source": "doan.cuoiki.app-main-39:/drawable/lock.xml"
+    },
+    {
+        "merged": "doan.cuoiki.app-merged_res-37:/drawable_mov2.jpg.flat",
+        "source": "doan.cuoiki.app-main-39:/drawable/mov2.jpg"
+    },
+    {
+        "merged": "doan.cuoiki.app-merged_res-37:/drawable_ic_person.xml.flat",
+        "source": "doan.cuoiki.app-main-39:/drawable/ic_person.xml"
+    },
+    {
+        "merged": "doan.cuoiki.app-merged_res-37:/menu_items_menu.xml.flat",
+        "source": "doan.cuoiki.app-main-39:/menu/items_menu.xml"
+    },
+    {
+        "merged": "doan.cuoiki.app-merged_res-37:/drawable_indicator_selector.xml.flat",
+        "source": "doan.cuoiki.app-main-39:/drawable/indicator_selector.xml"
+    },
+    {
+        "merged": "doan.cuoiki.app-merged_res-37:/layout_activity_search_flim.xml.flat",
+        "source": "doan.cuoiki.app-main-39:/layout/activity_search_flim.xml"
+    },
+    {
+        "merged": "doan.cuoiki.app-merged_res-37:/layout_activity_edit_profile.xml.flat",
+        "source": "doan.cuoiki.app-main-39:/layout/activity_edit_profile.xml"
+    },
+    {
+        "merged": "doan.cuoiki.app-merged_res-37:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "doan.cuoiki.app-main-39:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "doan.cuoiki.app-merged_res-37:/layout_movie_item_in_search.xml.flat",
+        "source": "doan.cuoiki.app-main-39:/layout/movie_item_in_search.xml"
+    },
+    {
+        "merged": "doan.cuoiki.app-merged_res-37:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "doan.cuoiki.app-main-39:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "doan.cuoiki.app-merged_res-37:/drawable_gradient_bg.xml.flat",
+        "source": "doan.cuoiki.app-main-39:/drawable/gradient_bg.xml"
+    },
+    {
+        "merged": "doan.cuoiki.app-merged_res-37:/layout_activity_signup.xml.flat",
+        "source": "doan.cuoiki.app-main-39:/layout/activity_signup.xml"
+    },
+    {
+        "merged": "doan.cuoiki.app-merged_res-37:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "doan.cuoiki.app-main-39:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "doan.cuoiki.app-merged_res-37:/drawable_baseline_arrow_back_24.xml.flat",
+        "source": "doan.cuoiki.app-main-39:/drawable/baseline_arrow_back_24.xml"
+    },
+    {
+        "merged": "doan.cuoiki.app-merged_res-37:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "doan.cuoiki.app-main-39:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "doan.cuoiki.app-merged_res-37:/anim_scale_animation.xml.flat",
+        "source": "doan.cuoiki.app-main-39:/anim/scale_animation.xml"
+    },
+    {
+        "merged": "doan.cuoiki.app-merged_res-37:/drawable_c1.png.flat",
+        "source": "doan.cuoiki.app-main-39:/drawable/c1.png"
+    },
+    {
+        "merged": "doan.cuoiki.app-merged_res-37:/drawable_baseline_photo_camera_24.xml.flat",
+        "source": "doan.cuoiki.app-main-39:/drawable/baseline_photo_camera_24.xml"
+    },
+    {
+        "merged": "doan.cuoiki.app-merged_res-37:/layout_slide_item.xml.flat",
+        "source": "doan.cuoiki.app-main-39:/layout/slide_item.xml"
+    },
+    {
+        "merged": "doan.cuoiki.app-merged_res-37:/drawable_selected_indicator.xml.flat",
+        "source": "doan.cuoiki.app-main-39:/drawable/selected_indicator.xml"
+    },
+    {
+        "merged": "doan.cuoiki.app-merged_res-37:/drawable_spidercover.png.flat",
+        "source": "doan.cuoiki.app-main-39:/drawable/spidercover.png"
+    },
+    {
+        "merged": "doan.cuoiki.app-merged_res-37:/layout_item_movie.xml.flat",
+        "source": "doan.cuoiki.app-main-39:/layout/item_movie.xml"
+    },
+    {
+        "merged": "doan.cuoiki.app-merged_res-37:/drawable_baseline_manage_accounts_24.xml.flat",
+        "source": "doan.cuoiki.app-main-39:/drawable/baseline_manage_accounts_24.xml"
+    },
+    {
+        "merged": "doan.cuoiki.app-merged_res-37:/layout_activity_user_profile.xml.flat",
+        "source": "doan.cuoiki.app-main-39:/layout/activity_user_profile.xml"
+    }
+]
